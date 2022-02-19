@@ -32,7 +32,7 @@
 <br />
 
 
-<h3 align="center">Contributions</h3>
+<h3 align="left">Contributions</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VagishaGupta9&" alt="VagishaGupta9" /></p>
 
