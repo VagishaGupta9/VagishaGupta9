@@ -23,7 +23,7 @@
 ### Connect with me
 [<img align="left" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />]( https://www.linkedin.com/in/vagisha-gupta-964495217/)
 [<img align="left" alt="Leetcode" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />]( https://leetcode.com/Vagisha_Gupta/)
-[<a href="mailto:vagisha.gupta@rediffmail.com"></a><img align="left"  height="30" width="40" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email">]
+<a href="mailto:vagisha.gupta@rediffmail.com"></a><img align="left"  height="30" width="40" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email">
 
 
 <br />
