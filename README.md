@@ -49,6 +49,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VagishaGupta9&show_icons=true&theme=algolia&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagishaGupta9&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Stats Chart](https://starchart.cc/VagishaGupta9/{repo}.svg)
 <!---
 vagisha25/vagisha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
