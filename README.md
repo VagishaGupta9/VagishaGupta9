@@ -1,13 +1,14 @@
   ![Visitor Count](https://profile-counter.glitch.me/VagishaGupta9/count.svg)
-  <p align="left">
-  <a href="https://github.com/VagishaGupta9"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Designer;Discord-Bot%20Developer;Wanna%20be%20a%20cloud%20expert&center=true&width=480&height=75"></a>
-</p>
+ 
   
   <img align="center" src="https://cdn.dribbble.com/users/898072/screenshots/3197134/111.gif" width="300px">
 
 ### About me
 
 👋 Hi, I’m Vagisha Gupta
+ <p align="center">
+  <a href="https://github.com/VagishaGupta9"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Designer;Discord-Bot%20Developer;Wanna%20be%20a%20cloud%20expert&center=true&width=480&height=75"></a>
+</p>
   
 
    I'm currently pursuing B.Tech in Computer Science and Engineering from Bharati Vidyapeeth College Of Engineering.
