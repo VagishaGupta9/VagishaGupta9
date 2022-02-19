@@ -15,8 +15,8 @@
 
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />]( https://www.linkedin.com/in/vagisha-gupta-964495217/)
-[<img align="left" alt="LinkedIn" width="80" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />]( https://leetcode.com/Vagisha_Gupta/)
+[<img align="left" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />]( https://www.linkedin.com/in/vagisha-gupta-964495217/)
+[<img align="left" alt="Leetcode" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />]( https://leetcode.com/Vagisha_Gupta/)
 
 
 <br />
