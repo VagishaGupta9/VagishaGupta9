@@ -50,6 +50,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagishaGupta9&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+### My Discord Bot
+<a href="https://top.gg/bot/911679569847799808">
+  <img align="left"  src="https://top.gg/api/widget/911679569847799808.svg">
+</a>
 <!---
 vagisha25/vagisha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
