@@ -27,7 +27,13 @@
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VagishaGupta9&" alt="VagishaGupta9" /></p>
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VagishaGupta9&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagishaGupta9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 vagisha25/vagisha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
