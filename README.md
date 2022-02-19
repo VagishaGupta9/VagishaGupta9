@@ -1,6 +1,9 @@
   ![Visitor Count](https://profile-counter.glitch.me/VagishaGupta9/count.svg)
+  <p align="center">
+  <a href="https://github.com/imrantechwiz"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Designer;Discord-Bot%20Developer;Wanna%20%be20%20a%20cloud%20expert&center=true&width=480&height=75"></a>
+</p>
   
-  <img  src="https://cdn.dribbble.com/users/898072/screenshots/3197134/111.gif" width="500px">
+  <img align="center" src="https://cdn.dribbble.com/users/898072/screenshots/3197134/111.gif" width="300px">
 
 ### About me
 
@@ -19,6 +22,7 @@
 ### Connect with me
 [<img align="left" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />]( https://www.linkedin.com/in/vagisha-gupta-964495217/)
 [<img align="left" alt="Leetcode" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />]( https://leetcode.com/Vagisha_Gupta/)
+[<img align="left"  height="30" width="40" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email">]("mailto:vagisha.gupta@rediffmail.com")
 
 
 <br />
