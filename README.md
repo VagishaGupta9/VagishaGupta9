@@ -1,4 +1,6 @@
-   <img  src="https://cdn.dribbble.com/users/898072/screenshots/3197134/111.gif" width="500px">
+  ![Visitor Count](https://profile-counter.glitch.me/VagishaGupta9/count.svg)
+  
+  <img  src="https://cdn.dribbble.com/users/898072/screenshots/3197134/111.gif" width="500px">
 
 ### About me
 
@@ -39,9 +41,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VagishaGupta9&" alt="VagishaGupta9" /></p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VagishaGupta9&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VagishaGupta9&show_icons=true&theme=algolia&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagishaGupta9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VagishaGupta9&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 vagisha25/vagisha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
