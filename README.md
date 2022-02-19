@@ -32,7 +32,7 @@
 <br />
 
 
-### Contributions
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VagishaGupta9&" alt="VagishaGupta9" /></p>
 
