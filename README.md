@@ -34,7 +34,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VagishaGupta9&" alt="VagishaGupta9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VagishaGupta9&" alt="VagishaGupta9" /></p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VagishaGupta9&show_icons=true&theme=tokyonight&count_private=true)
