@@ -47,7 +47,7 @@
 
 <h2>📊 My Github Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VagishaGupta9&theme=Gradient" alt="VagishaGupta9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VagishaGupta9&theme=yeblu" alt="VagishaGupta9" /></p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VagishaGupta9&show_icons=true&theme=algolia&count_private=true)
