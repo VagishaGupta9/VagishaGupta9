@@ -57,7 +57,7 @@
 
 <h2>🤖 My Discord Bot</h2>
 <a href="https://top.gg/bot/911679569847799808">
-  <img align="left"  src="https://top.gg/api/widget/911679569847799808.svg">
+  <img src="https://top.gg/api/widget/911679569847799808.svg">
 </a>
 <!---
 vagisha25/vagisha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
