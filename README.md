@@ -28,7 +28,7 @@
 <h2>📱 Connect with me</h2>
 <p><a href="https://www.linkedin.com/in/vagisha-gupta-964495217/"><img align="left" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
 <a href="https://leetcode.com/Vagisha_Gupta/"><img align="left" alt="Leetcode" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" /></a>
-<a href="mailto:vagisha.gupta@rediffmail.com"><img align="left"  height="30" width="40" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="http://vagishagupta.me/"><img align="left" alt="Website" height="30" width="40" src="https://th.bing.com/th/id/OIP.EP9MUPm_0QGUm-dr1eaz4wHaHa?pid=ImgDet&rs=1" /></a></p>
+<a href="mailto:vagisha.gupta@rediffmail.com"><img align="left"  height="30" width="40" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="http://vagishagupta.me/"><img align="left" alt="Website" height="30" width="40" src="https://library.kissclipart.com/20180901/rue/kissclipart-world-wide-web-clipart-hyperlink-web-page-0a7343adca7dac09.png" /></a></p>
 
 
 <br />
