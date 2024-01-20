@@ -14,16 +14,6 @@
  <p align="center">
   <a href="https://github.com/VagishaGupta9"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Designer;Discord-Bot%20Developer;Wanna%20be%20a%20cloud%20expert&center=true&width=480&height=75"></a>
 </p>
-  
-
-   I'm currently pursuing B.Tech in Computer Science and Engineering from Bharati Vidyapeeth College Of Engineering.
-    My Personality traits: friendly, cooperative, goal-orientated.I have always been fond of computers and especially the algorithms on which it works.
-    I believe in the power of programming to transform and improve the lives of people around the world.
-
-- 🌱 Currently have hands on Java , SQL , HTML5, CSS and JS.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me vagisha.gupta@rediffmail.com 
-
 
 <h2>📱 Connect with me</h2>
 <p><a href="https://www.linkedin.com/in/vagisha-gupta-964495217/"><img align="left" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
